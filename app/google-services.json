@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "58064369738",
+    "firebase_url": "https://eventapp-c8411-default-rtdb.firebaseio.com",
+    "project_id": "eventapp-c8411",
+    "storage_bucket": "eventapp-c8411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58064369738:android:e8abc569734f11152aceb3",
+        "android_client_info": {
+          "package_name": "com.example.myeventapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA041x502UTaxDGPAMT56RzpPDxs9XuoiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
